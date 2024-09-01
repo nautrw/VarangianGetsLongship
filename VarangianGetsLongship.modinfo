@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="489c59a5-d41d-4e1f-b5b1-185482e445bd" version="1">
+<Properties>
+    <Name>Varangian Gets Longship</Name>
+    <Teaser>Makes Varangian Harald get the longship too</Teaser>
+    <Description>A mod that makes Harald's Varangian variant also have the Viking Longship and the coastal raiding ability like Konge Harald.</Description>
+    <Authors>nautrw</Authors>
+</Properties>
+<Files>
+    <File>VarangianGetsLongship.sql</File>
+</Files>
+<Components>
+    <UpdateDatabase id="VarangianGotLongship">
+        <Items>
+            <File>VarangianGetsLongship.sql</File>
+        </Items>
+    </UpdateDatabase>
+</Components>
+</Mod>
