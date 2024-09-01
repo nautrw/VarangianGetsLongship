@@ -11,10 +11,18 @@
     <File>VarangianGetsLongship.sql</File>
 </Files>
 <Components>
-    <UpdateDatabase id="VarangianGotLongship">
+    <UpdateDatabase id="VarangianGetsLongship">
         <Items>
             <File>VarangianGetsLongship.sql</File>
         </Items>
     </UpdateDatabase>
 </Components>
+<FrontEndActions>
+    <UpdateDatabase id="VarangianGetsLongshipFrontendConfig">
+        <Properties>
+            <LoadOrder>100</LoadOrder>
+        </Properties>
+        <File>Frontend.sql</File>
+    </UpdateDatabase>
+</FrontEndActions>
 </Mod>
