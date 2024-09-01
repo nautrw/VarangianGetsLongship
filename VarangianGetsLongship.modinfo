@@ -5,6 +5,7 @@
     <Teaser>Makes Varangian Harald get the longship too</Teaser>
     <Description>A mod that makes Harald's Varangian variant also have the Viking Longship and the coastal raiding ability like Konge Harald.</Description>
     <Authors>nautrw</Authors>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
 </Properties>
 <Files>
     <File>VarangianGetsLongship.sql</File>
