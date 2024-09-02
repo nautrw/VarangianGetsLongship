@@ -9,6 +9,7 @@
 </Properties>
 <Files>
     <File>VarangianGetsLongship.sql</File>
+    <File>Frontend.sql</file>
 </Files>
 <Components>
     <UpdateDatabase id="VarangianGetsLongship">
